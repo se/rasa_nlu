@@ -81,7 +81,7 @@ These points are laid out in more detail in a [blog post](https://medium.com/las
 
 ### What languages does it support?
 Short answer: English, German, and Spanish currently. 
-Longer answer: If you want to add a new language, the key things you need are a tokenizer and a set of word vectors. More information can be found in the [language documentation](https://rasa-nlu.readthedocs.io/en/stable/languages.html).
+Longer answer: If you want to add a new language, the key things you need a tokenizer and a set of word vectors. More information can be found in the [language documentation](https://rasa-nlu.readthedocs.io/en/stable/languages.html).
 
 ## How to contribute
 We are very happy to receive and merge your contributions. There is some more information about the style of the code and docs in the [documentation](http://rasa-nlu.readthedocs.io/en/stable/contribute.html).
